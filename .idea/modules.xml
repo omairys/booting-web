@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/booting-web/booting-web.iml" filepath="$PROJECT_DIR$/booting-web/booting-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/room-web-app/room-web-app.iml" filepath="$PROJECT_DIR$/room-web-app/room-web-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-et.iml" filepath="$PROJECT_DIR$/spring-boot-et.iml" />
     </modules>
   </component>
